@@ -1,4 +1,4 @@
 # hello-world
-theFirstRepository
+theFirsteofRepository
 
-the first repository in Github.
+the first repository in Githubwindows.
